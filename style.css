@@ -12,4 +12,7 @@
 }
 #Calculator {
     display: none;
+    background-color: blue;
+    border-radius: 10px;
+    width: 200px;
 }
