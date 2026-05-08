@@ -1,0 +1,15 @@
+.CartaInicio {
+    background-color: red;
+    border-radius: 10px;
+    padding: 20px;
+}
+#StartButton:hover {
+    background-color: green;
+    color: black;
+    border-radius: 3px;
+    cursor: pointer;
+    transition: 0.3s;
+}
+#Calculator {
+    display: none;
+}
